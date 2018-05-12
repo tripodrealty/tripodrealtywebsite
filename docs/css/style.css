@@ -129,7 +129,7 @@ header {
 	height: 100%;
 }
 header p {
-	color: rgba(255,255,255,0.5);
+	color: #fff;
 	font-size: 18px;
 	font-weight: 300;
 	margin-bottom: 60px;
@@ -336,7 +336,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact-section {
 	padding: 100px 0;
-	background-color: #f6f6f6;
+	/*background-color: #f6f6f6;*/
 }
 #contact-section form {
 	padding: 30px 0;
@@ -404,7 +404,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Social Section */
 #social-section {
 	padding: 30px 0;
-	background-color: #fff;
+	background-color: #f6f6f6;
 }
 #social-section .social ul li {
 	display: inline-block;
@@ -454,4 +454,16 @@ label {
 	padding: 15% 10%;
 }
 }
+
+.project-highlight
+{
+	color: #71bd46;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	background-color: transparent;
+	font-size: 22px;
+	transition: all 0.5s;
+}
+
+
 
