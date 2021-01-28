@@ -225,6 +225,13 @@ img.team-img {
 	padding-bottom: 10px;
 	display: block;
 }
+/* Renovations Section 
+==============================*/
+#reno-section {
+	padding: 100px 0;
+	/*background-color: #f6f6f6;*/
+}
+
 /* Gallery Section 
 ==============================*/
 #works-section {
@@ -336,7 +343,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact-section {
 	padding: 100px 0;
-	/*background-color: #f6f6f6;*/
+	background-color: #f6f6f6;
 }
 #contact-section form {
 	padding: 30px 0;
